@@ -1,0 +1,12 @@
+{
+  "name": "wp-header-search",
+  "version": "1.0.0",
+  "description": "Easily find a value for a supplied key in theme and plugin header files.",
+  "main": "index.js",
+  "repository": "https://github.com/timelsass/wp-header-search",
+  "author": "Tim <dev@tim.ph>",
+  "license": "MIT",
+  "dependencies": {
+    "wp-project-header": "^1.0.0"
+  }
+}
